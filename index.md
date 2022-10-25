@@ -7,7 +7,7 @@ This is the official repository prepared for the review article, entitled "Data-
 <!-- ### ***Overview*** -->
 
 ### ***Appendices***
-The details of the reviewed articles and KPIs in the Appendix of the paper can be found in this Google sheet:
+The details of the reviewed articles and KPIs in the paper's Appendix can be found in this Google sheet:
 - Reviewed articles: [Table A1](https://docs.google.com/spreadsheets/d/1BYvYF_kVScc9upolPzEZHnIsrvBP2N2_1fS-nBxO2nI/edit#gid=1335917425)
 - Reviewed KPIs: [Table A2](https://docs.google.com/spreadsheets/d/1BYvYF_kVScc9upolPzEZHnIsrvBP2N2_1fS-nBxO2nI/edit#gid=978094966)
 
