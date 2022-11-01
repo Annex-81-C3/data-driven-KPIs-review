@@ -7,11 +7,20 @@ This is the official repository prepared for the review article, entitled "Data-
 <!-- ### ***Overview*** -->
 
 ### ***Appendices***
+
+***Appendix A***
+
 The details of the reviewed articles and KPIs in the paper's Appendix can be found in this Google sheet:
 - Reviewed articles: [Table A1](https://docs.google.com/spreadsheets/d/1BYvYF_kVScc9upolPzEZHnIsrvBP2N2_1fS-nBxO2nI/edit#gid=1335917425)
 - Reviewed KPIs: [Table A2](https://docs.google.com/spreadsheets/d/1BYvYF_kVScc9upolPzEZHnIsrvBP2N2_1fS-nBxO2nI/edit#gid=978094966)
 
-The Jupyter Notebook that analyzes the reviewed articles and KPIs can be found [here](https://colab.research.google.com/drive/1gbz13aGcwLCQLryAQufPZywPOp-QQmW0)
+The Jupyter Notebook that analyzes the reviewed articles and KPIs can be found [here](https://colab.research.google.com/drive/1gbz13aGcwLCQLryAQufPZywPOp-QQmW0).
+
+***Appendix B***
+
+The complete list of the 16 identified available datasets of buildings performing DR with detailed information about their respective study and a link to download the datasets when the latter are available can be found in [this Google sheet](https://docs.google.com/spreadsheets/d/1oeuAFI0595vohN7Fvo8apNX_4faoa-SyQUJTlcVQ0Bo/edit?usp=sharing).
+
+The Jupyter Notebook that analyzes the collected datasets can be found [here](https://colab.research.google.com/drive/1xg7Z6nkgdF7o4sU7VZSM4zHMIhxiCZEb?usp=sharing).
 
 
 ### ***Acknowledgements***
